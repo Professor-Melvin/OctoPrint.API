@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctoPrint.API", "OctoPrint.API\OctoPrint.API.csproj", "{B4F1B198-2CB0-4899-95D9-81028227A940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctoPrint.TestApp", "OctoPrint.TestApp\OctoPrint.TestApp.csproj", "{E486240F-882D-461B-B11D-ABC18777FF87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4F1B198-2CB0-4899-95D9-81028227A940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F1B198-2CB0-4899-95D9-81028227A940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F1B198-2CB0-4899-95D9-81028227A940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F1B198-2CB0-4899-95D9-81028227A940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E486240F-882D-461B-B11D-ABC18777FF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E486240F-882D-461B-B11D-ABC18777FF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E486240F-882D-461B-B11D-ABC18777FF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E486240F-882D-461B-B11D-ABC18777FF87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B8CFE19-1397-4DCC-873A-2B1C6082B3D6}
+	EndGlobalSection
+EndGlobal
